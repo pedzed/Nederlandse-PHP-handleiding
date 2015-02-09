@@ -1,6 +1,6 @@
 # Nederlandstalige PHP handleiding
 
-Deze handleiding is bedoeld voor Nederlandstaligen die de *PHP programming language* willen leren. Het is bedoeld voor beginners, maar ook voor gevorderden die alleen kennis hebben gemaakt met het programmeer gedeelte.
+Deze handleiding is bedoeld voor Nederlandstaligen die de *PHP programming language* willen leren. Het is bedoeld voor beginners, maar ook voor gevorderden die vooral kennis hebben gemaakt met het programmeer gedeelte.
 
 In deze handleiding zul je niet alleen kennis gaan maken met PHP, maar ook "web development" in het algemeen. Dit houdt dus in dat er bijvoorbeeld gesproken gaat worden over servers en databases.
 
