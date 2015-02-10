@@ -5,7 +5,7 @@ Deze handleiding is bedoeld voor Nederlandstaligen die de *PHP programming langu
 
 In deze handleiding zul je niet alleen kennis gaan maken met PHP, maar ook *web development* in het algemeen. Dit houdt dus in dat er bijvoorbeeld gesproken gaat worden over servers en databases.
 
-*Deze handleiding is gebaseerd op **PHP 5.5**. In veel gevallen werkt het ook voor **PHP 5.4**. Een hogere PHP versie zal geen probleem moeten zijn om het te kunnen volgen.*
+Deze handleiding is gebaseerd op **PHP 5.5**. In veel gevallen werkt het ook voor **PHP 5.4**. Een hogere PHP versie zal geen probleem moeten zijn om het te kunnen volgen.
 
 Aangezien programmeren internationaal is - en in veel gevallen alleen te gebruiken in het Engels - zullen er veel Engelse termen voor komen. Meestal zijn het programmeer-specifieke termen, die zullen uiteraard ook uitgelegd worden.
 
