@@ -10,7 +10,7 @@ Deze handleiding is gebaseerd op **PHP 5.5**. In veel gevallen werkt het ook voo
 Aangezien programmeren internationaal is en in veel gevallen alleen in het Engels te gebruiken is, zullen er veel Engelse termen voor komen. Meestal zijn het programmeer-specifieke termen. Die zullen uiteraard uitgelegd worden.
 
 ### Help mee!
-Iedereen kan meehelpen om deze handleiding te verbeteren, corrigeren en uit te breiden. De simpelste manier om mee te helpen is om een [nieuw "issue" ](https://github.com/pedzed/Nederlandse-PHP-handleiding/issues) aan te maken en kort en krachtig vertellen wat er mis is. Als iets onduidelijk is (en dus ook verbeterd kan worden), kan het bijvoorbeeld ook gemeld worden.
+Iedereen kan meehelpen om deze handleiding te verbeteren, corrigeren en uit te breiden. De simpelste manier om mee te helpen is door een [nieuw "issue" ](https://github.com/pedzed/Nederlandse-PHP-handleiding/issues) aan te maken en kort en krachtig vertellen wat er mis is. Als iets onduidelijk is (en dus ook verbeterd kan worden), kan het bijvoorbeeld ook gemeld worden.
 
 ## Beginnen met PHP
 Wat je op zijn minst nodig hebt om van start te kunnen gaan met programmeren is een **client**, een **web server** en de **PHP interpreter**. In de introductie wordt uitgelegd wat dat allemaal is en wordt er dieper op in gegaan.
